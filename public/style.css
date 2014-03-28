@@ -1,0 +1,15 @@
+section {
+  display: block;
+  height: 1024px;
+  color: orange;
+}
+/* where the magic happens */
+#green {
+  background: url('images/green.png') 50% 0 no-repeat fixed;
+}
+#blue {
+  background: url('images/blue.png') 50% 0 no-repeat fixed;
+}
+#red {
+  background: url('images/red.png') 50% 0 no-repeat fixed;
+}
